@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="17811" started-at="2016-05-24T19:42:19Z" finished-at="2016-05-24T19:42:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="17811" started-at="2016-05-24T19:42:19Z" finished-at="2016-05-24T19:42:37Z">
+      <class name="TestId.GoogleLogin2.LoginAndLogout">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestId.GoogleLogin2.LoginAndLogout@4a2ffb]" name="setup" is-config="true" duration-ms="8333" started-at="2016-05-24T22:42:19Z" finished-at="2016-05-24T22:42:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginAndLogout()[pri:0, instance:TestId.GoogleLogin2.LoginAndLogout@4a2ffb]" name="loginAndLogout" duration-ms="8804" started-at="2016-05-24T22:42:27Z" finished-at="2016-05-24T22:42:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAndLogout -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestId.GoogleLogin2.LoginAndLogout@4a2ffb]" name="tearDown" is-config="true" duration-ms="271" started-at="2016-05-24T22:42:36Z" finished-at="2016-05-24T22:42:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestId.GoogleLogin2.LoginAndLogout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
